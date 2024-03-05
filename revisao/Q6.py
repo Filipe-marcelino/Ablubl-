@@ -1,0 +1,1 @@
+print('seg ter qua qui sex sáb dom\n         1   2   3   4 \n 5  6  7  8  9  10  11')
